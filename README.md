@@ -27,5 +27,4 @@ The **Fight Simulator** is a text-based battle simulation game that allows users
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/fight-simulator.git
-   cd fight-simulator
+   git clone https://github.com/igormqn/Javascript--Project5--FightSimulator
